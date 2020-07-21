@@ -25,10 +25,10 @@ There are three main topics to be developed during the period of time of this pr
 
 ## Publications
 
-* Vallejos, R., Perez, J., Ellison, A.M., Richardson, A.D. (2020). A spatial concordance correlation coefficient with an application to image analysis. *Spatial Statistics*, doi: [10.1016/j.spasta.2019.100405](https://doi.org/10.1016/j.spasta.2019.100405)
+* Vallejos, R., Perez, J., Ellison, A.M., Richardson, A.D. (2020). A spatial concordance correlation coefficient with an application to image analysis. *Spatial Statistics* (to appear), doi: [10.1016/j.spasta.2019.100405](https://doi.org/10.1016/j.spasta.2019.100405)
 
 ## Activities
 
 * 2020:
   - July 07: First organizational meeting.
-  - July 21: Webinar given by Felipe Osorio entitled *Assessment of local influence for the analysis of agreement* [Slides](https://github.com/faosorios/CCFEM/blob/master/webinars/210620_F.Osorio.pdf)
+  - July 21: Webinar given by Felipe Osorio entitled *Assessment of local influence for the analysis of agreement* [[Slides]](https://github.com/faosorios/CCFEM/blob/master/webinars/210620_F.Osorio.pdf)
