@@ -22,3 +22,13 @@ There are three main topics to be developed during the period of time of this pr
   - [Ronny Vallejos](http://rvallejos.mat.utfsm.cl/) and [Felipe Osorio](http://fosorios.mat.utfsm.cl/), Departamento de Matematica, Universidad Tecnica Federico Santa Maria.
   - [Manuel Galea](http://www.mat.uc.cl/personas/perfil/mgalea), Departamento de Estadistica, Pontificia Universidad Catolica de Chile.
   - [Moreno Bevilacqua](https://sites.google.com/a/uv.cl/moreno-bevilacqua/), Facultad de Ingenieria y Ciencias, Universidad Adolfo Ibanez, Vina del Mar.
+
+## Publications
+
+* Vallejos, R., Perez, J., Ellison, A.M., Richardson, A.D. (2020). A spatial concordance correlation coefficient with an application to image analysis. *Spatial Statistics* doi: [10.1016/j.spasta.2019.100405](https://doi.org/10.1016/j.spasta.2019.100405)
+
+## Activities
+
+* 2020:
+  - July 07: First organizational meeting.
+  - July 21: Webinar given by Felipe Osorio entitled *Assessment of local influence for the analysis of agreement* 
