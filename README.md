@@ -12,13 +12,13 @@ There are three main topics to be developed during the period of time of this pr
 ## Team
 
 * From France:
-  - Francois Bachoc and Jean-Michel Loubes, Institut de Mathematiques de Toulouse, Universite Paul Sabatier.
-  - Didier Rulliére, Institut de Science Financiere et d'Assurances (ISFA), Université de Lyon.
+  - [Francois Bachoc](https://www.math.univ-toulouse.fr/~fbachoc/) and [Jean-Michel Loubes](https://perso.math.univ-toulouse.fr/loubes/), Institut de Mathematiques de Toulouse, Universite Paul Sabatier.
+  - [Didier Rulliére](https://www.researchgate.net/profile/Didier_Rulliere), Institut de Science Financiere et d'Assurances (ISFA), Université de Lyon.
 * From Brazil:
-  - Mario De Castro, Instituto de Ciencias Matematicas e de Computacao, Universidade de Sao Paulo (USP).
-  - Filidor Vilca, Departamento de Estatistica, Universidade Estadual de Campinas (UNICAMP).
-  - Fernanda De Bastiani, Departamento de Estatistica. Centro de Ciencias Exatas e da Natureza, Universidade Federal de Pernambuco (UFPE).
+  - [Mario De Castro](https://www.icmc.usp.br/pessoas?id=4324585), Instituto de Ciencias Matematicas e de Computacao, Universidade de Sao Paulo (USP).
+  - [Filidor Vilca](https://scholar.google.com/citations?user=O7GXpU4AAAAJ&hl=en&oi=sra), Departamento de Estatistica, Universidade Estadual de Campinas (UNICAMP).
+  - [Fernanda De Bastiani](https://www.researchgate.net/profile/Fernanda_De_Bastiani3), Departamento de Estatistica. Centro de Ciencias Exatas e da Natureza, Universidade Federal de Pernambuco (UFPE).
 * From Chile:
-  - Ronny Vallejos and Felipe Osorio, Departamento de Matematica, Universidad Tecnica Federico Santa Maria.
-  - Manuel Galea, Departamento de Estadistica, Pontificia Universidad Catolica de Chile.
-  - Moreno Bevilacqua, Facultad de Ingenieria y Ciencias, Universidad Adolfo Ibanez, Vina del Mar.
+  - [Ronny Vallejos](http://rvallejos.mat.utfsm.cl/) and [Felipe Osorio](http://fosorios.mat.utfsm.cl/), Departamento de Matematica, Universidad Tecnica Federico Santa Maria.
+  - [Manuel Galea](http://www.mat.uc.cl/personas/perfil/mgalea), Departamento de Estadistica, Pontificia Universidad Catolica de Chile.
+  - [Moreno Bevilacqua](https://sites.google.com/a/uv.cl/moreno-bevilacqua/), Facultad de Ingenieria y Ciencias, Universidad Adolfo Ibanez, Vina del Mar.
