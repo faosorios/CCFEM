@@ -1,4 +1,4 @@
-# MATH-AMSUD Project: Concordance and Covariance Functions for Environmental Modelling
+# Concordance and Covariance Functions for Environmental Modelling
 
 The main goal of this project is to consolidate a productive and recognized working team and to enhance the cooperation among them in Chile, Brazil and France in the area of spatial statistics with applications in environmental and social sciences, including the construction of concordance measures that can be used to validate new methodologies to measure the poverty, and the estimation of covariance functions that characterize the spatial correlation of variables used to measure the atmospheric pollution.
 
