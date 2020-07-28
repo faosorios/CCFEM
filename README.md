@@ -31,4 +31,5 @@ There are three main topics to be developed during the period of time of this pr
 
 * 2020:
   - July 07: First organizational meeting.
-  - July 21: Webinar given by Felipe Osorio entitled *Assessment of local influence for the analysis of agreement* [[Slides]](https://github.com/faosorios/CCFEM/blob/master/webinars/210620_F.Osorio.pdf)
+  - July 21: Webinar given by Felipe Osorio entitled *Assessment of local influence for the analysis of agreement* [[Slides]](webinars/210720_F.Osorio.pdf)
+  - July 28: Webinar given by Mario de Castro entitled *Probability of agreement* [[Slides]](webinars/280720_M.deCastro.pdf)
