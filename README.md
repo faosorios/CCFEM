@@ -33,3 +33,4 @@ There are three main topics to be developed during the period of time of this pr
   - July 07: First organizational meeting.
   - July 21: Webinar given by Felipe Osorio entitled *"Assessment of local influence for the analysis of agreement"*. [[Slides]](webinars/210720_F.Osorio.pdf)
   - July 28: Webinar given by Mario de Castro entitled *"Probability of agreement"*. [[Slides]](webinars/280720_M.deCastro.pdf)
+  - August 4: Webinar given by Ronny Vallejos entitled *"Assessing the concordance between two georeferenced variables"* . [[Slides]](webinars/040820_R.Vallejos.pdf)
