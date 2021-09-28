@@ -27,6 +27,7 @@ There are three main topics to be developed during the period of time of this pr
 
 * Vallejos, R., Perez, J., Ellison, A.M., Richardson, A.D. (2020). A spatial concordance correlation coefficient with an application to image analysis. *Spatial Statistics* **40**, 100405. doi: [10.1016/j.spasta.2019.100405](https://doi.org/10.1016/j.spasta.2019.100405). [[Preprint]](preprints/preprint_Vallejos-etal-2020.pdf)
 * Acosta, J., Alegria, A., Osorio, F., Vallejos, R. (2021). Assessing the effective sample size for large spatial datasets: A block likelihood approach. *Computational Statistics and Data Analysis* **162**, 107282. doi: [10.1016/j.csda.2021.107282](https://doi.org/10.1016/j.csda.2021.107282). [[Preprint]](http://fosorios.mat.utfsm.cl/files/preprint/13_CSDA_block-ESS.pdf)
+* De Castro, M., Galea, M. (2021). Bayesian inference for the pairwise probability of agreement using data from several measurement systems. *Quality Engineering*. doi: [10.1080/08982112.2021.1931317](https://doi.org/10.1080/08982112.2021.1931317)
 
 ## Activities
 
