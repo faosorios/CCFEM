@@ -27,8 +27,9 @@ There are three main topics to be developed during the period of time of this pr
 
 * Acosta, J., Alegria, A., Osorio, F., Vallejos, R. (2021). Assessing the effective sample size for large spatial datasets: A block likelihood approach. *Computational Statistics and Data Analysis* **162**, 107282. doi: [10.1016/j.csda.2021.107282](https://doi.org/10.1016/j.csda.2021.107282). [[Preprint]](http://fosorios.mat.utfsm.cl/files/preprint/13_CSDA_block-ESS.pdf)
 * De Castro, M., Galea, M. (2021). Bayesian inference for the pairwise probability of agreement using data from several measurement systems. *Quality Engineering*. doi: [10.1080/08982112.2021.1931317](https://doi.org/10.1080/08982112.2021.1931317)
-* Osorio, F., Vallejos, R., Barraza, W., Ojeda, S.M., Landi, M.A. (2021+). Statistical estimation of the structural similarity index for image quality assessment. *Signal, Image and Video Processing*. doi: [10.1007/s11760-021-02051-9](https://doi.org/10.1007/s11760-021-02051-9). [[Preprint]](http://fosorios.mat.utfsm.cl/files/preprint/14_SIViP_SSIM.pdf)
+* Osorio, F., Vallejos, R., Barraza, W., Ojeda, S.M., Landi, M.A. (2022+). Statistical estimation of the structural similarity index for image quality assessment. *Signal, Image and Video Processing*. doi: [10.1007/s11760-021-02051-9](https://doi.org/10.1007/s11760-021-02051-9). [[Preprint]](http://fosorios.mat.utfsm.cl/files/preprint/14_SIViP_SSIM.pdf)
 * Vallejos, R., Perez, J., Ellison, A.M., Richardson, A.D. (2020). A spatial concordance correlation coefficient with an application to image analysis. *Spatial Statistics* **40**, 100405. doi: [10.1016/j.spasta.2019.100405](https://doi.org/10.1016/j.spasta.2019.100405). [[Preprint]](preprints/preprint_Vallejos-etal-2020.pdf)
+* Vidal, G., Yuz, J., Vallejos, R., Osorio, F. (2022+). Point-process modeling and divergence measures applied to the characterization of passenger flow patterns of a metro system. *IEEE Access*. doi: [10.1109/ACCESS.2022.3156078](https://doi.org/10.1109/ACCESS.2022.3156078)
 
 ## Activities
 
