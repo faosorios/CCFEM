@@ -48,3 +48,5 @@ There are three main topics to be developed during the period of time of this pr
   - July 28: Webinar given by Mario de Castro, entitled *"Probability of agreement"*. [[Slides]](webinars/280720_M.deCastro.pdf)
   - August 4: Webinar given by Ronny Vallejos, entitled *"Assessing the concordance between two georeferenced variables"*. [[Slides]](webinars/040820_R.Vallejos.pdf)
   - August 25: Webinar given by Francois Bachoc, entitled *"Asymptotic results for cross validation estimation of covariance parameters of Gaussian processes"*. [[Slides]](webinars/250820_F.Bachoc.pdf)
+* 2022:
+  - March 28 - April 02: Meeting: "Recent advances in the analysis of concordance", [ICMC-USP, Brazil](https://www.icmc.usp.br/)
