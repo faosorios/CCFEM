@@ -50,6 +50,6 @@ There are three main topics to be developed during the period of time of this pr
   - August 25: Webinar given by Francois Bachoc, entitled *"Asymptotic results for cross validation estimation of covariance parameters of Gaussian processes"*. [[Slides]](webinars/250820_F.Bachoc.pdf)
 * 2022:
   - March 28 - April 02: Meeting: "Recent advances in the analysis of concordance", [ICMC-USP, Brazil](https://www.icmc.usp.br/)
-    - Talk by Felipe Osorio: *"A robust estimate of the probability of agreement between two measurement systems using P-splines"*, [[Abstract]](https://github.com/faosorios/CCFEM/blob/master/PIPGES/announcement-Osorio.pdf).
-    - Talk by Ronny Vallejos: *"Concordance analysis for georeferenced variables"*, [[Abstract]](https://github.com/faosorios/CCFEM/blob/master/PIPGES/announcement-Vallejos.pdf).
-    - Talk by Manuel Galea: *"Robust estimation in functional comparative calibration models via maximum Lq-likelihood"*, [[Abstract]](https://github.com/faosorios/CCFEM/blob/master/PIPGES/announcement-Galea.pdf).
+    - April 01: Talk by Felipe Osorio, *"A robust estimate of the probability of agreement between two measurement systems using P-splines"* [[Abstract]](https://github.com/faosorios/CCFEM/blob/master/PIPGES/announcement-Osorio.pdf).
+    - April 01: Talk by Ronny Vallejos, *"Concordance analysis for georeferenced variables"* [[Abstract]](https://github.com/faosorios/CCFEM/blob/master/PIPGES/announcement-Vallejos.pdf).
+    - April 01: Talk by Manuel Galea, *"Robust estimation in functional comparative calibration models via maximum Lq-likelihood"* [[Abstract]](https://github.com/faosorios/CCFEM/blob/master/PIPGES/announcement-Galea.pdf).
