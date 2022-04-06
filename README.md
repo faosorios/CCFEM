@@ -42,6 +42,13 @@ There are three main topics to be developed during the period of time of this pr
 * Vallejos, R., Perez, J., Ellison, A.M., Richardson, A.D. (2020). A spatial concordance correlation coefficient with an application to image analysis. *Spatial Statistics* **40**, 100405. doi: [10.1016/j.spasta.2019.100405](https://doi.org/10.1016/j.spasta.2019.100405).
 * Vidal, G., Yuz, J., Vallejos, R., Osorio, F. (2022). Point-process modeling and divergence measures applied to the characterization of passenger flow patterns of a metro system. *IEEE Access* **10**, 26529-26540. doi: [10.1109/ACCESS.2022.3156078](https://doi.org/10.1109/ACCESS.2022.3156078)
 
+## PhD students
+
+* Eloy Alvarado, PhD student in Statistics. Universidad de Valparaíso, Chile.
+* Isaac Cortés, PhD student in Statistics. Instituto de Ciencias Matemáticas e de Computacao, Universidade de Sao Paulo, Brazil.
+* John Gómez, PhD student in Mathematics. Consorcio PUCV-UTFSM-UV, Chile.
+* Juan Carlos Saavedra, D.Sc. in Statistics. Universidad de Valparaíso, Chile. Thesis: *Influence Diagnostics in Gaussian Spatio-Temporal Linear Models with Separable Covariance*.
+
 ## Activities
 
 * 2020:
