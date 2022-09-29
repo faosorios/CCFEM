@@ -26,6 +26,7 @@ There are three main topics to be developed during the period of time of this pr
 ## Publications
 
 * Acosta, J., Alegria, A., Osorio, F., Vallejos, R. (2021). Assessing the effective sample size for large spatial datasets: A block likelihood approach. *Computational Statistics and Data Analysis* **162**, 107282. doi: [10.1016/j.csda.2021.107282](https://doi.org/10.1016/j.csda.2021.107282).
+* Acosta, J., Vallejos, R., Gomez, J. (2022). Correlation integral for stationary Gaussian time series. (submitted)
 * Bachoc, F., Durrande, N., Rulliere, D. Chevalier C. (2022). Properties and comparison of some kriging sub-model aggregation methods. *Mathematical Geosciences*. doi: [10.1007/s11004-021-09986-2](https://doi.org/10.1007/s11004-021-09986-2)
 * Bevilacqua, M., Caamaño, C., Arellano-Valle, R.B., Gomez C. (2022). A class of random fields with two-piece marginal distributions for modeling point-referenced data with spatial outliers. *Test*. doi: [10.1007/s11749-021-00797-5](https://doi.org/10.1007/s11749-021-00797-5)
 * Bevilacqua, M., Caamaño, C., Porcu, E. (2022). Unifying compactly supported and Matern covariance functions in spatial statistics. *Journal of Multivariate Analysis*. doi: doi: [10.1016/j.jmva.2022.104949](https://doi.org/10.1016/j.jmva.2022.104949)
@@ -34,8 +35,9 @@ There are three main topics to be developed during the period of time of this pr
 * Faouzi, T., Porcu, E., Bevilacqua, M. (2020). Space-time estimation and prediction under infill asymptotics with compactly supported covariance functions. *Statistica Sinica*. doi: [10.5705/ss.202020.0010](https://doi.org/10.5705/ss.202020.0010)
 * Morales-Oñate, V., Crudu, F., Bevilacqua, M. (2021). Blockwise Euclidean likelihood for spatio-temporal covariance models. *Econometrics and Statistics* **20**, 176-201. doi: [10.1016/j.ecosta.2021.01.001](https://doi.org/10.1016/j.ecosta.2021.01.001)
 * Osorio, F., Galea, M. (2022+). Agreement assessment between two measurement systems using robust P-splines (working paper).
-* Osorio, F., Vallejos, R., Barraza, W., Ojeda, S.M., Landi, M.A. (2022+). Statistical estimation of the structural similarity index for image quality assessment. *Signal, Image and Video Processing*. doi: [10.1007/s11760-021-02051-9](https://doi.org/10.1007/s11760-021-02051-9).
+* Osorio, F., Vallejos, R., Barraza, W., Ojeda, S.M., Landi, M.A. (2022+). Statistical estimation of the structural similarity index for image quality assessment. *Signal, Image and Video Processing* **16**, 1035-1042. doi: [10.1007/s11760-021-02051-9](https://doi.org/10.1007/s11760-021-02051-9).
 * Papaterra, M., Ojeda, S., Landi, M., Vallejos, R. (2021). Strategy for selecting a quality index for images. *International Journal of Computer Information Systems and Industrial Management Applications* **13**, 348-363. [PDF](http://www.mirlabs.org/ijcisim/regular_papers_2021/IJCISIM_32.pdf)
+* Perez, J., Acosta. J., Vallejos, R. (2022). Assessing the estimation of nearly singular covariance matrices for modelling spatial variables. (submitted)
 * Uribe-Opazo, M., De Bastiani, F., Galea, M., Schemmer, R.C., Assumpcao, R.A.B. (2021). Influence diagnostics on a reparameterized t-Student spatial linear model. *Spatial Statistics* **41**, 100481. doi: [10.1016/j.spasta.2020.100481](https://doi.org/10.1016/j.spasta.2020.100481)
 * Vallejos, R., Acosta, J. (2021). Effective sample size for multivariate spatial processes with an application to soil contamination. *Natural Resource Modeling* **34**, e12322. doi: [10.1111/nrm.12322](https://doi.org/10.1111/nrm.12322)
 * Vallejos, R., Acosta, J., Osorio, F. (2022+). Comparing two spatial variables with the probability of agreement (working paper).
